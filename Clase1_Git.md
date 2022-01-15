@@ -1,3 +1,5 @@
+Antiguamente se llamana READMe
+
 En este archivo escribire las anotaciones de las clases que me den Laura y Nat del curso de Salesforces. 
 Dudas para Gabriel: 
     1. Me apareció lo que le aparecía a Juan Ma de .DS_Store y no supe como quitarlo. Ya lo busque en Google y termine más confundida. 
