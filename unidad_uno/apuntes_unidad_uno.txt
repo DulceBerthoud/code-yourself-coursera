@@ -1,0 +1,85 @@
+
+
+Notas Semana 1 
+
+INTRODUCCIÓN A ALGORITMOS 
+
+-Procesos de una secuencias de pasos que se siguen en orden uno tras otro
+-SECUENCIAS, DECISIONES Y REPETICIONES son construcciones básicas para construir un programa. 
+-Se le denomina algoritmo a la secuencia ordenada de pasos. Un ALGORITMO describe el procedimiento para llevar a cabo una tarea o resolver un problema de manera paso a paso. Pueden incluir secuencias, decisiones e iteraciones. 
+-Diagramas de flujo (representación gráfica) 
+-Hacer suposiciones de una situaciones 
+
+Ejercicio: ¿Cuáles serian los pasos para lavarse los dientes? 
+
+1. Destapa o desenrosca la tapa del tubo de la pasta de dientes.
+2. Con cualquiera de tus dos manos tomar tu cepillo por el mango.
+3. Con la mano que no tienes el cepillo, apretar levemente el tubo hasta que salga una cantidad considerable de la pasta al exterior , ya sea por los extremos o por el centro. 
+4. Una vez que salga la pasta, acerca el cepillo a la pasta, en partícular la parte con hebras. 
+5. Untar la pasta sobresaliente del tubo a la parte del cepillo donde están las hebras.
+6. Abrir la llave del agua. 
+7. Acercas el cepillo con pasta al chorro de agua. 
+8. Se moja unos segundos. 
+9. Alejar el cepillo y acercarlo a la boca.
+10. Cerrar la llave. 
+11. Abrir la boca. 
+12. Frotar las hebras del cepillo encina de los dientes superiores. El movimiento debe de ser de arriba a abajo y luego de abajo a arriba. 
+13. Repetir el paso 12 en los dientes inferiores. 
+14. Repetir paso 12 en las muelas de ambos lados y agregar el movimiento de frotar encima de las muelas.
+15. Escupir la espuma que se formo en el lavabo. 
+16. Abrir la llave. 
+17. Acercarte al chorro de agua y beber cierta cantidad. 
+18. No tragar el agua, y hacer gárgaras. 
+19. Escupir agua
+20. Repetir del paso 17 al 19 2 a 3 veces.
+21. Escupir la última vez. 
+22. Cerrar la llave 
+23. Guardar la pasta y el cepillo. 
+
+HOW TO USE SCRATCH 
+
+-Scratch es un lenguaje de programación, es un medio de comunicación con un ordenador para dar instrucciones.
+-Herramienta fue desarrollada por Media Lab del MIT.
+
+	Comandos, sus funciones y observaciones de scratch
+	.Bandera verde: ejecutar el programa 
+	.Script: donde se posicionan los bloques del área Bloque.
+	.Escenario: donde se colocan diferentes fondos 
+	.Sprites: donde se programan las acciones
+	.Las condiciones tienen forma de diamante 
+
+INTRODUCTION TO SELECTION 
+
+-En un programa de lógica secuencial, las tareas se llevan a cabo en secuencia, es decir una tras otra.
+-Cuando utilizamos SELECCIÓN en un programa es porque implica una DECISIÓN o se quiere agregar una alternativa en el algoritmo. 
+-Selección implica el uso de condiciones para controlar el flujo de un programa y tomar decisiones. Al ejecutar un programa así, el equipo toma una decisión sobre cómo proceder en función de si se cumple una condición especificada. Sólo si se cumple la condición, entonces se ejecuta la parte correspondiente del programa. 
+-Declaraciones condicionales: IF-THEN 
+-Las condiciones son declaraciones que son verdaderas o falsas. Ed decir son de tipo booleano al sólo tener dos valor posibles (verdadero/falso). Una forma de pensar en las condiciones es formar una Yes/No Question. 
+-Pseudocódigo: es una descripción de un algoritmo que utiliza lenguaje natural en una forma más estructurada. 
+
+ITERACIÓN (Repetición)
+ 
+-Es un proceso de repetición de secciones de un programa.
+-Se usa siempre que un comportamiento específico necesita ser repetido. 
+-Bucles infinitos (repetición de comportamiento específico indefinidamente)
+-El bloque forever no tiene un bulto en la parte inferior, por lo que no puedes colocar un bloque después de él.
+
+
+El centro del escenario tiene coordenadas X es igual a 0 e Y es igual a 0.El eje X es horizontal.
+Las coordenadas con un valor X negativo significan que están a la izquierda de la pantalla.
+Un valor positivo significa que está a la derecha. El eje Y es vertical. Las coordenadas con un valor Y negativo significan que están en la parte inferior de la pantalla. Un valor positivo significa que está en la parte superior.
+
+Te invitamos a hacer una presentación sobre ti mismo, en la que dices lo que
+quieras de ti mismo, y compartirla con tu familia y amigos.
+¿Qué te pareció particularmente fácil al crearlo?
+Y, ¿qué te pareció más desafiante?
+Comparte tus experiencias en el foro. 
+
+Ejercicios en Scratch: 
+Gato 1
+Gato + Globos 
+Dinosaurio bailando 
+Nube 
+Diálogos 
+
+
